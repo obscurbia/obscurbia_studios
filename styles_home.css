@@ -9,11 +9,25 @@
 
 }
 
+
+.nav_bar{
+	border-width: 10px;
+	border-style: solid;
+	border-color: black;
+	font-size: 15px;
+	background-color: grey;
+}
+
 .head_styles{
 	color: darkgrey;
 	font-size: 50px;
 	font-weight: bold;
 }
+ .subhead_styles{
+ 	color: darkgrey;
+ 	font-size: 20px;
+ }
+
 
 .p_styles{
 	background-color: lightgrey;
