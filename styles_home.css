@@ -38,7 +38,7 @@
 	border-width: .5rem;
 	border-style: solid;
 	border-color: black;
-	font-size: 15px;
+	font-size: 2rem;
 	background-color: grey;
 }
 
@@ -58,4 +58,9 @@
 	background-color: lightgrey;
 	font-size: 20px;
 
+}
+#foot{
+	font-style: italic;
+	font-size: 1rem;
+	color: teal;
 }
